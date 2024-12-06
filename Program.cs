@@ -8,7 +8,7 @@ namespace LabWork
     {
         private const double XMin = 2.3;
         private const double XMax = 7.8;
-        private const double DeltaX = 0.9;
+        private const double DeltaX = 0.9; // Крок зміни
         private const int Margin = 20;
 
         public Form1()
